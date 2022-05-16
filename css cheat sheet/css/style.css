@@ -1,0 +1,120 @@
+body{
+	background-color: #fff0d0;
+	font-size: 1.2em;
+	color: #3c3c3c;
+	margin: 0;
+}
+.container{
+	width: 90%;
+	margin: auto;
+}
+#box-1{
+	border: 1px #fff500 solid;
+	background-image: url("../images/picoc.jpg");
+	padding-right: 40px;
+	padding-left: 40px;
+	margin-top: 10px;
+	font-weight: bold;
+	color: #fff0d0;
+}
+#box-2{
+	
+	background-image: url("../images/backs.jpg");
+	padding: 20px;
+	font-weight: bold;
+	color: #fff0d0;
+	position: relative;
+	top: 3px;
+}
+#monte{
+	font-style: italic;
+	text-decoration: underline;
+}
+a{
+	color: #ff0000;
+}
+a:hover{
+	color: #ffa555;
+}
+a:active{
+	color: #00ff00;
+}
+#gonna{
+	text-transform: uppercase;
+	font-style: oblique;
+	text-decoration: underline;
+}
+#box-3{
+	box-sizing: border-box;
+	float: left;
+	width: 70%;
+
+}
+#box-3 li{
+	text-decoration: underline;
+}
+#box-4{
+	border: 10px #ffffff solid;
+	border-radius: 30px;
+	background-color: #000000;
+	float: right;
+	width: 30%;
+	box-sizing: border-box;
+
+}
+
+.jus{
+	margin-top: 300px;
+}
+.just{
+	border: 1px #ff0000 solid;
+	background-color: red;
+
+}
+.just th{
+	border: 1px #ff0000 solid;
+	background-color: red;
+
+}
+.justu{
+	border: 1px #ff0000 solid;
+	background-color: red;
+
+}
+.justu td{
+	font-weight: bold;
+}
+#my-forms ul{
+	text-transform: uppercase;
+	text-decoration: underline;
+	font-size: 0.8em;
+	list-style: square;
+	font-weight: bold;
+}
+.form input{
+	padding: 8px;
+	width: 80%;
+}
+.form label{
+	display: block;
+}
+#quote{
+	border: 1px #fff solid;
+	border-radius: 15px;
+	background-color: #fff500;
+	padding: 10px;
+
+}
+#last ul{
+	list-style: square;
+	color: #00ff00;
+}
+
+#thelast h2{
+	background-image: url("../images/backs.jpg");
+	padding-bottom: 400px;
+	padding-left: 20px;
+	padding-top: 10px;
+	font-weight: bold;
+	color: yellow;
+}

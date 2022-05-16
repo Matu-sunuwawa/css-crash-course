@@ -1,0 +1,83 @@
+
+
+body{
+	background-color:#c3c3c3 ;
+	color: #787878;
+	font-size: 14px;
+	margin: 0;
+}
+.container{
+	width: 80%;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 40px;
+}
+
+#box-1{
+	background-color: #fff500;
+
+}
+#box-2{
+	border: 1px #fff solid;
+	border: 1px;
+	font-weight: bold;
+
+}
+#box-2 ul{
+	list-style: square;
+	padding: 18px;
+	background-image: url('../images/water.jpg');
+}
+a{
+	color: #000;
+}
+a:hover{
+	color: #00ff00;
+}
+a:active{
+	color: #fff500;
+}
+
+#box-3{
+	background-color: #fff500;
+	color: #000;
+
+	border: 5px red solid;
+
+	padding: 10px ;
+
+	margin: 10px 0 ;
+}
+#box-3 h2{
+	text-decoration: underline;
+	text-transform: uppercase;
+	font-style: itaalic;
+	letter-spacing: 0.2em;
+}
+#box-4{
+	float: left;
+	width: 70%;
+	border: 10px #000000 solid;
+	padding: 40px;
+	box-sizing: border-box;
+}
+#box-5{
+	border: 0.5px #ff0000 solid;
+	border-radius: 20px;
+	background-color: #00ff00;
+	float: right;
+	width: 30%;
+	padding: 45px;
+	box-sizing: border-box;
+	position: relative;
+	left: 10px;
+
+
+}
+
+#matu{
+	color: blue;
+	text-decoration: underline;
+	list-style: square;
+}
